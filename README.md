@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Opeyemi but the girls call me devVGBG. Yep,i'm friends with alot of strong and brave ladies who like me, do not want to live the regular, boring theme of life. WE WANT TO DO PHENOMENAL STUFF. I work mainly with the Frontend.</h1>
-<h3 align="center">Coding and trying to understand code keeps me up at night. Still need me to write those lines where i say "I'm a passionate developer?" Didn't think so too. I'm Nigerian btw...you already know we work hard, so let the work be commensurate to my paycheck ALWAYS.</h3>
+<h1 align="center">Hi 👋, I'm Opeyemi. Just your regular guy who wants to always be super amazing with the computer and help build Africa with tech. I work mainly with the Frontend.</h1>
+<h3 align="center">Coding and trying to understand code keeps me up at night. Still need me to write those lines where i say "I'm a passionate developer?" Didn't think so too. I'm Nigerian btw...you already know we work hard, so kindly let the work be commensurate to my paycheck ALWAYS.</h3>
 
 <p align="left"> <a href="https://twitter.com/devvgbg" target="blank"><img src="https://img.shields.io/twitter/follow/devvgbg?logo=twitter&style=for-the-badge" alt="devvgbg" /></a> </p>
 
-- 🔭 I started coding a year ago and I recently just left tutorial hell. I’m currently applying my JavaScript and React knowledge by helping a friend build [The KEVI shopping app. I am using and trying to master the MERN stack](https://github.com/resourcefulmind/wel-shopping-app)
+- 🔭 I started coding a year ago and I recently just left tutorial hell. I’m currently applying my JavaScript and React knowledge by helping to build little projects which you can find further down this repo. Do have fun going through my codes and remember, life is good when you help people...so if you see a correction to make about my codes, kindly let me know.
 
 - 🌱 I’m currently learning **JavaScript, React, Tailwind CSS**
 
