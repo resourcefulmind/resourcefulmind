@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **React, Tailwind CSS, Open Source projects.**
 
-- 👨‍💻 All of my projects are available at [https://opeyemi-stephen.netlify.app](https://opeyemi-stephen.netlify.app)
+- 👨‍💻 All of my projects are available at [https://opeyemistephen.netlify.app](https://opeyemistephen.netlify.app)
 
 - 📝 I regularly write articles on [https://dev.to/resourcefulmind](https://dev.to/resourcefulmind)
 
