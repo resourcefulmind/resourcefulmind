@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://twitter.com/devvgbg" target="blank"><img src="https://img.shields.io/twitter/follow/devvgbg?logo=twitter&style=for-the-badge" alt="devvgbg" /></a> </p>
 
-- 🔭 I started coding a year ago and I recently just left tutorial hell. I’m currently applying my JavaScript knowledge by helping to build little projects which you can find further down this repo. Do have fun going through my codes and remember, life is good when you help people...so if you see a correction to make about my codes, kindly let me know.
+- 🔭 Software Engineer focused on Javascript, with an emphasis on React | Technical Storyteller, I also write the best technical articles and documentation and looking for a product focused company with Global reach.
 
-- 🌱 I’m currently learning **JavaScript, React, Tailwind CSS**
+- 🌱 I currently work with **HTML, CSS, JavaScript, React, Tailwind CSS, MongoDB, NodeJS and more recently Sanity, Material UI and Framer**
 
-- 👯 I’m looking to collaborate soon **Open Source Projects**
+- 👯 I’m looking to collaborate soon on **Open Source Projects** and learning **API Documentation** and of course **more ReactJS**
 
-- 🤝 I’m looking for help with **React, Tailwind CSS, Open Source projects.**
+- 🤝 I’m looking for help with **Open Source projects and becoming an really seasoned software engineer.**
 
 - 👨‍💻 All of my projects are available at [https://opeyemistephen.netlify.app](https://opeyemistephen.netlify.app)
 
-- 📝 I regularly write articles on [https://dev.to/resourcefulmind](https://dev.to/resourcefulmind)
+- 📝 I write technical articles on [https://dev.to/resourcefulmind](https://dev.to/resourcefulmind)
 
 - 📫 How to reach me **omodaraopeyemi754@gmail.com**
 
