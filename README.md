@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Opeyemi. Just your regular guy who wants to always be super amazing with the computer and help build Africa with tech. I work mainly with the Frontend.</h1>
+<h1 align="center">Hi 👋, I'm Opeyemi. Software Engineer focused on Javascript, with an emphasis on React | Technical Storyteller, I also write the best technical articles and documentation and looking for a product focused company with Global reach. </h1>
 <h3 align="center">Coding and trying to understand code keeps me up at night. Still need me to write those lines where i say "I'm a passionate developer?" Didn't think so too..</h3>
 
 <p align="left"> <a href="https://twitter.com/devvgbg" target="blank"><img src="https://img.shields.io/twitter/follow/devvgbg?logo=twitter&style=for-the-badge" alt="devvgbg" /></a> </p>
 
-- 🔭 Software Engineer focused on Javascript, with an emphasis on React | Technical Storyteller, I also write the best technical articles and documentation and looking for a product focused company with Global reach.
+- 🔭 Just your regular guy who wants to always be super amazing with the computer and help build Africa with tech. I work mainly with the Frontend.
 
 - 🌱 I currently work with **HTML, CSS, JavaScript, React, Tailwind CSS, MongoDB, NodeJS and more recently Sanity, Material UI and Framer**
 
