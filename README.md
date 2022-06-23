@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/devvgbg" target="blank"><img src="https://img.shields.io/twitter/follow/devvgbg?logo=twitter&style=for-the-badge" alt="devvgbg" /></a> </p>
 
-- 🔭 Just your regular guy who wants to always be super amazing with the computer and help build Africa with tech. I work mainly with the Frontend.
+- 🔭 Just your regular guy who wants to always be super amazing with the computer and help build Africa and the world with tech. I work mainly with the Frontend.
 
 - 🌱 I currently work with **HTML, CSS, JavaScript, React, Tailwind CSS, MongoDB, NodeJS and more recently Sanity, Material UI and Framer**
 
