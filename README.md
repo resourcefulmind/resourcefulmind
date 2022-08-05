@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Opeyemi, a Software Engineer focused on Javascript, with an emphasis on React | Technical Storyteller, I also write the best technical articles and documentation and looking for a product focused company with Global reach. </h1>
+<h1 align="center">Hi 👋, I'm Opeyemi, a Software Engineer focused on Javascript, with an emphasis on React | Technical Storyteller, I also write the best technical articles and documentation and always looking to work with a product focused company with Global reach. </h1>
 <h3 align="center">Coding and trying to understand code keeps me up at night. Still need me to write those lines where i say "I'm a passionate developer?" Didn't think so too..</h3>
 
 <p align="left"> <a href="https://twitter.com/devvgbg" target="blank"><img src="https://img.shields.io/twitter/follow/devvgbg?logo=twitter&style=for-the-badge" alt="devvgbg" /></a> </p>
